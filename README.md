@@ -1,2 +1,2 @@
-# segment-Anything-Model
+# Segment-Anything-Model
 This repo contains notebooks from the SAM development
